@@ -1,0 +1,23 @@
+{
+  "name": "lastfmapiscraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyssaranderson/lastfmapiscraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alyssaranderson/lastfmapiscraper/issues"
+  },
+  "homepage": "https://github.com/alyssaranderson/lastfmapiscraper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "json-to-csv-stream": "^1.1.0"
+  }
+}
