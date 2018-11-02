@@ -1,8 +1,8 @@
 const axios = require('axios');
 const fs = require('fs');
 
-const USER = ""
-const APIKEY = ""
+const USER = "insert your username"
+const APIKEY = "insert your API key"
 const URL="http://ws.audioscrobbler.com/2.0/"
 let PAGE=1
 const SCROBBLES=38886
